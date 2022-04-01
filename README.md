@@ -6,7 +6,7 @@ Submitted by: **Anthony D'Agostino**
 
 Time spent: **10** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://glitch.com/edit/#!/lightandsoundmemoryanthonydagostino?path=index.html%3A1%3A0)
 
 ## Required Functionality
 
@@ -39,8 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](http://g.recordit.co/Tw6dPl7sqL.gif)
 ![](http://g.recordit.co/lvKMQtCHd7.gif)
+![](http://g.recordit.co/Tw6dPl7sqL.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
