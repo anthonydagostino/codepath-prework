@@ -6,7 +6,7 @@ Submitted by: **Anthony D'Agostino**
 
 Time spent: **10** hours spent in total
 
-Link to project: (insert your link here, should start with (https://lightandsoundmemoryanthonydagostino.glitch.me/)
+Link to project: (insert your link here, should start with (https://glitch.com/~lightandsoundmemoryanthonydagostino)
 
 ## Required Functionality
 
