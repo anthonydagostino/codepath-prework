@@ -60,7 +60,7 @@ Before even reading this question I was thinking about how I would go about impl
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](file:///C:/Users/17326/OneDrive%20-%20Rutgers%20University/Desktop/video1646128970%20-%20Copy.mp4)
+[My 5-minute Interview Recording](https://youtu.be/BU8T0L_UJVI)
 
 
 ## License
